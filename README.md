@@ -2,13 +2,9 @@
 
 Authored by:- Biswajit Dash
 
-Version Control System
+**Version Control System**
 
-- Version control, also known as source control, is the practice of tracking and managing changes to software code. Version control systems are software tools that help software teams manage changes to source code over 
-
-time. Version control is a system that records changes to a file or set of files over time so that you can recall specific versions later. • It allows you to revert selected files back to a previous state, revert the entire project back to a previous state, compare changes over time, see who last modified something that might be causing a problem, who introduced 
-
-an issue and when, and more. Like many of the most popular VCS systems available today, Git is free and open source. 
+- Version control, also known as source control, is the practice of tracking and managing changes to software code. Version control systems are software tools that help software teams manage changes to source code over time. Version control is a system that records changes to a file or set of files over time so that you can recall specific versions later. • It allows you to revert selected files back to a previous state, revert the entire project back to a previous state, compare changes over time, see who last modified something that might be causing a problem, who introduced an issue and when, and more. Like many of the most popular VCS systems available today, Git is free and open source. 
 
 **Types of Version Control System:-**
 
