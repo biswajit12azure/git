@@ -62,21 +62,13 @@ This allows you to set up several types of workflows that aren’t possible in c
 
 **Source code management**
 
-- Source code management (SCM) is used to track modifications to a source code repository. SCM tracks a running history of changes to a code base and helps resolve 
-
-conflicts when merging updates from multiple contributors. SCM is also synonymous with Version control. • As software projects grow in lines of code and contributor head count, the costs of communication overhead and management complexity also grow. SCM is a critical tool 
-
-to alleviate the organizational strain of growing development costs.
-
-Source code management best practices
-
-qCommit often
-
-qEnsure you're working from latest version qMake detailed notes
-
-qReview changes before committing qUse Branches
-
-qAgree on a Workflow
+- Source code management (SCM) is used to track modifications to a source code repository. SCM tracks a running history of changes to a code base and helps resolve conflicts when merging updates from multiple contributors. SCM is also synonymous with Version control.
+- As software projects grow in lines of code and contributor head count, the costs of communication overhead and management complexity also grow. SCM is a critical tool to alleviate the organizational strain of growing development costs.
+Source code management best practices:-
+- Commit often
+- Ensure you're working from latest version qMake detailed notes
+- Review changes before committing qUse Branches
+- Agree on a Workflow
 
 **Git and why is it important?![ref2]![ref1]**
 
