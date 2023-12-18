@@ -301,7 +301,7 @@ This command is used by Git to record changes made to the branches' tips. ![ref3
 
 In git, it is used to track each line of the file based on the commit information. 
 
-THANK YOU ![ref1]![](Aspose.Words.ad62aed8-3fb5-45c0-8b30-cdcddcdbb489.027.png)LIKE , SHARE AND SUBSCRIBE
+THANK YOU ![ref1]![](Aspose.Words.ad62aed8-3fb5-45c0-8b30-cdcddcdbb489.027.png)
 
 BISWAJIT DASH  ||   ISHA DEVOPS
 
