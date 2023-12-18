@@ -27,6 +27,7 @@ Local Version Control Systems
 
 
 ![](Aspose.Words.ad62aed8-3fb5-45c0-8b30-cdcddcdbb489.008.png)
+
 Centralized Version Control Systems (CVCSs) were developed to collaborate with developers on other systems. These systems (such as CVS, Subversion, and Perforce) have a single server that contains all the versioned files, and a number of clients that check out files from that central place. 
 
 This setup offers many advantages, especially over local VCSs. For example, everyone knows to a certain degree what everyone else on the project is doing. Administrators have fine-grained control over who can do what, and it’s far easier to administer a CVCS than it is to deal with local databases on every client.
@@ -41,6 +42,7 @@ Systems from this same problem — whenever you have the entire history of t
 
 
 ![](Aspose.Words.ad62aed8-3fb5-45c0-8b30-cdcddcdbb489.009.png)
+
 In Distributed Version Control Systems (DVCSs) (such as Git, Mercurial or Darcs), clients don’t just check out the latest snapshot of the files; rather, they fully mirror the repository, including its full history. Thus, if any server dies, and these systems were collaborating via that server, any of the client repositories can be copied back up to the server to restore it. Every clone is really a full backup of all the data.
 
 Furthermore, many of these systems deal pretty well with having several remote repositories they can work with, 
