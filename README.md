@@ -9,20 +9,20 @@ Authored by:- Biswajit Dash
 **Types of Version Control System:-**
 
 1. Local Version Control Systems
-1. Centralized Version Control Systems
-1. Distributed Version Control Systems
+2. Centralized Version Control Systems
+3. Distributed Version Control Systems
 
 ![ref3]
 
-**Local Version Control Systems
-![](Aspose.Words.ad62aed8-3fb5-45c0-8b30-cdcddcdbb489.007.png)**
+**Local Version Control Systems**
+![](Aspose.Words.ad62aed8-3fb5-45c0-8b30-cdcddcdbb489.007.png)
 
 Local VCSs has a simple database that kept all the changes to files under revision control. One of the most popular VCS tools was a system called RCS, which is still distributed with many computers today. [RCS](https://www.gnu.org/software/rcs/) works by keeping patch sets (that is, the differences between files) in a special format on disk; it can then re-create what any file looked like at any point in time by adding up all the patches.
 
 Local Version Control Systems
 
-**Centralized Version Control Systems
-![](Aspose.Words.ad62aed8-3fb5-45c0-8b30-cdcddcdbb489.008.png)**
+**Centralized Version Control Systems**
+![](Aspose.Words.ad62aed8-3fb5-45c0-8b30-cdcddcdbb489.008.png)
 Centralized Version Control Systems (CVCSs) were developed to collaborate with developers on other systems. These systems (such as CVS, Subversion, and Perforce) have a single server that contains all the versioned files, and a number of clients that check out files from that central place. 
 
 This setup offers many advantages, especially over local VCSs. For example, everyone knows to a certain degree what everyone else on the project is doing. Administrators have fine-grained control over who can do what, and it’s far easier to administer a CVCS than it is to deal with local databases on every client.
@@ -31,12 +31,10 @@ However, this setup also has some serious downsides. The most obvious is the sin
 
 becomes corrupted, and proper backups haven’t been kept, you lose absolutely everything — the entire history of Centralized Version Control  the project except whatever single snapshots people happen to have on their local machines. Local VCSs suffer 
 
-Systems from this same problem — whenever you have the entire history of the project in a single place, you risk losing ![](Aspose.Words.ad62aed8-3fb5-45c0-8b30-cdcddcdbb489.009.png)
-
-everything.
+Systems from this same problem — whenever you have the entire history of the project in a single place, you risk losing everything.
 
 **Distributed Version Control Systems**
-
+![](Aspose.Words.ad62aed8-3fb5-45c0-8b30-cdcddcdbb489.009.png)
 In Distributed Version Control Systems (DVCSs) (such as Git, Mercurial or Darcs), clients don’t just check out the latest snapshot of the files; rather, they fully mirror the repository, including its full history. Thus, if any server dies, and these systems were collaborating via that server, any of the client repositories can be copied back up to the server to restore it. Every clone is really a full backup of all the data.
 
 Furthermore, many of these systems deal pretty well with having several remote repositories they can work with, 
