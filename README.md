@@ -47,7 +47,7 @@ Furthermore, many of these systems deal pretty well with having several remote r
 
 so you can collaborate with different groups of people in different ways simultaneously within the same project. 
 
-This allows you to set up several types of workflows that aren’t possible in centralized systems, such as Distributed Version Control Systems hierarchical models.![](Aspose.Words.ad62aed8-3fb5-45c0-8b30-cdcddcdbb489.010.png)
+This allows you to set up several types of workflows that aren’t possible in centralized systems, such as Distributed Version Control Systems hierarchical models.
 
 
 ![](Aspose.Words.ad62aed8-3fb5-45c0-8b30-cdcddcdbb489.011.png)   ![](Aspose.Words.ad62aed8-3fb5-45c0-8b30-cdcddcdbb489.012.png) ![](Aspose.Words.ad62aed8-3fb5-45c0-8b30-cdcddcdbb489.013.png)![](Aspose.Words.ad62aed8-3fb5-45c0-8b30-cdcddcdbb489.014.png)![](Aspose.Words.ad62aed8-3fb5-45c0-8b30-cdcddcdbb489.015.png)
