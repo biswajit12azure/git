@@ -12,8 +12,6 @@ Authored by:- Biswajit Dash
 2. Centralized Version Control Systems
 3. Distributed Version Control Systems
 
-![ref3]
-
 **Local Version Control Systems**
 
 
