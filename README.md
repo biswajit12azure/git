@@ -1,6 +1,4 @@
-﻿Git & GITHUB![](Aspose.Words.ad62aed8-3fb5-45c0-8b30-cdcddcdbb489.001.png)![ref1]
-
-![](Aspose.Words.ad62aed8-3fb5-45c0-8b30-cdcddcdbb489.003.png) ![](Aspose.Words.ad62aed8-3fb5-45c0-8b30-cdcddcdbb489.004.png)
+﻿Git & GITHUB
 
 Authored by:- Biswajit Dash
 
