@@ -60,7 +60,7 @@ This allows you to set up several types of workflows that aren’t possible in c
 
 
 
-Source code management![ref2]![ref1]
+**Source code management**
 
 - Source code management (SCM) is used to track modifications to a source code repository. SCM tracks a running history of changes to a code base and helps resolve 
 
