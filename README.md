@@ -79,7 +79,7 @@ Authored by:- Biswajit Dash
 
 ![](Aspose.Words.ad62aed8-3fb5-45c0-8b30-cdcddcdbb489.023.png)
 
-|### GIT | ### GITHUB|
+|GIT | GITHUB|
 |--------|-----------|
 |**Git** is a tool used for source code management. |**GitHub** is a web-based platform that provides hosting for version control using Git.|
 |It is a free and open-source version control system used to handle small to very large projects efficiently.Git is used to tracking changes in the source code |GitHub is a very popular platform for developers to share and collaborate on projects, and it is also used for hosting open-source projects.|
@@ -178,7 +178,7 @@ URL → Copied URL of the remote repository.
 
 Git revert and reset are two commands that can be used to undo changes in a Git repository. However, they work in different ways. ![](Aspose.Words.ad62aed8-3fb5-45c0-8b30-cdcddcdbb489.025.png)
 
-|### git revert |### git reset|
+|git revert |git reset|
 |---------------|-------------|
 |The git revert command creates a new commit that undoes the changes made by the specified commit. This means that the commit history is preserved, and other developers can still see the changes that were made, even though they have been undone. |The git reset command moves the HEAD pointer back to the specified commit. This means that the commit history is rewritten, and any commits that were made after the specified commit are discarded.|
 |To use the git revert command, simply specify the commit that you want to undo: git revert (commit-hash ID)|To use the git reset command, simply specify the commit that you want to move the HEAD pointer back to: git reset (commit-hash ID)|
@@ -190,7 +190,7 @@ In general, you should use git rebase to combine changes from one branch into an
 
 ![](Aspose.Words.ad62aed8-3fb5-45c0-8b30-cdcddcdbb489.026.png)**
 
-|### Git Rebase | ### Git Merge |
+|Git Rebase | Git Merge |
 |-------------- |---------------|
 |The git rebase command moves the commits from one branch onto the tip of another branch.This means that the commit history is rewritten,and the two branches will have a linear history. |The git merge command combines the changes from two branches into a single branch. This is done by creating a new commit that contains the changes from both branches.|
 |To use the git rebase command, simply specify the branch that you want to rebase onto:*git rebase branch-name* |To use the git merge command, simply specify    the branch that you want to merge into the current branch: *git merge branch-name*|
@@ -198,7 +198,7 @@ In general, you should use git rebase to combine changes from one branch into an
 
 ## Git fetch and Git pull
 
-|### Git Fetch | ### Git Pull |
+|Git Fetch | Git Pull |
 |--------------|--------------|
 |The Git fetch command only downloads new data from a remote repository. |Git pull updates the current HEAD branch with  the latest changes from the remote server.|
 |It does not integrate any of these new data into your working files. |Downloads new data and integrate it with the  current working files.Tries to merge remote changes with your local ones|
