@@ -1,4 +1,4 @@
-<h1>﻿Git & GITHUB</h1>
+<h1>﻿GIT & GITHUB</h1>
 
 Authored by:- Biswajit Dash
 
