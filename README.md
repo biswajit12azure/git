@@ -116,7 +116,7 @@ The *objects* directory stores all the content for your database,
 
 the *refs* directory stores pointers into commit objects in that data (branches, tags, remotes and more), the *HEAD* file points to the branch you currently have checked out
 
-**How do you create a new repository on GitHub?![ref2]![ref1]**
+**How do you create a new repository on GitHub?**
 
 1. Go to the GitHub website and log in to your account.
 2. Click the “+” icon in the top right corner of the screen and select “New repository”.
