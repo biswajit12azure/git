@@ -35,13 +35,9 @@ Local VCSs has a simple database that kept all the changes to files under revisi
 
 ![](Aspose.Words.ad62aed8-3fb5-45c0-8b30-cdcddcdbb489.009.png)
 
-- In Distributed Version Control Systems (DVCSs) (such as Git, Mercurial or Darcs), clients don’t just check out the latest snapshot of the files; rather, they fully mirror the repository, including its full history. Thus, if any server dies, and these systems were collaborating via that server, any of the client repositories can be copied back up to the server to restore it. Every clone is really a full backup of all the data.
-
-Furthermore, many of these systems deal pretty well with having several remote repositories they can work with, 
-
-so you can collaborate with different groups of people in different ways simultaneously within the same project. 
-
-This allows you to set up several types of workflows that aren’t possible in centralized systems, such as Distributed Version Control Systems hierarchical models.
+- In Distributed Version Control Systems (DVCSs) (such as Git, Mercurial or Darcs), clients don’t just check out the latest snapshot of the files; rather, they fully mirror the repository, including its full history. Thus, if any server dies, and these systems were collaborating via that server, any of the client repositories can be copied back up to the server to restore it. 
+- Every clone is really a full backup of all the data.Furthermore, many of these systems deal pretty well with having several remote repositories they can work with, so you can collaborate with different groups of people in different ways simultaneously within the same project. 
+- This allows you to set up several types of workflows that aren’t possible in centralized systems, such as Distributed Version Control Systems hierarchical models.
 
 
 **Types of Version Control System**
