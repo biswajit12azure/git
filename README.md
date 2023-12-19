@@ -276,16 +276,18 @@ You can change the most recent commit message with the git commit —amend comma
 
 Explain git reflog
 
-This command is used by Git to record changes made to the branches' tips. ![ref3]Role of the git annotate command. 
+This command is used by Git to record changes made to the branches' tips.
+
+Role of the git annotate command. 
 
 In git, it is used to track each line of the file based on the commit information. 
 
-THANK YOU ![ref1]![](Aspose.Words.ad62aed8-3fb5-45c0-8b30-cdcddcdbb489.027.png)
+**THANK YOU**![](Aspose.Words.ad62aed8-3fb5-45c0-8b30-cdcddcdbb489.027.png)
 
-BISWAJIT DASH  ||   ISHA DEVOPS
+**BISWAJIT DASH  ||   ISHA DEVOPS**
 
-**Subscribe YouTube Channel for more Contents :   ![ref3]https://www.youtube.com/@IshaDevops** 
-
+**Subscribe YouTube Channel for more Contents : https://www.youtube.com/@IshaDevops** 
+ ![ref3]
 [ref1]: Aspose.Words.ad62aed8-3fb5-45c0-8b30-cdcddcdbb489.002.jpeg
 [ref2]: Aspose.Words.ad62aed8-3fb5-45c0-8b30-cdcddcdbb489.005.png
 [ref3]: Aspose.Words.ad62aed8-3fb5-45c0-8b30-cdcddcdbb489.006.png
