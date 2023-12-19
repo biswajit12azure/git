@@ -229,7 +229,7 @@ rebase <branch-name> current branch: git merge <branch-name> • This will move 
 |The Git fetch command only downloads new data from a remote repository. |Git pull updates the current HEAD branch with  the latest changes from the remote server.|
 |It does not integrate any of these new data into your working files. |Downloads new data and integrate it with the  current working files.|
 |Command - git fetch origin |Tries to merge remote changes with your local ones.                                                                            
-Command - git pull origin master|
+                             Command - git pull origin master|
 |git fetch --all |Git pull = git fetch + git merge|
  
 
