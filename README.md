@@ -1,4 +1,4 @@
-$${\color{red}<h1>﻿GIT & GITHUB</h1>}$$
+$${\color{red}GIT & GITHUB}$$
 <h1>﻿GIT & GITHUB</h1>
 Authored by:- Biswajit Dash
 
