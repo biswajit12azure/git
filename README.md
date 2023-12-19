@@ -81,11 +81,12 @@ Source code management best practices:-
 
 ![](Aspose.Words.ad62aed8-3fb5-45c0-8b30-cdcddcdbb489.023.png)
 
+**GIT:-**
 - **Git** is a tool used for source code management.
 - It is a free and open-source version control system used to handle small to very large projects efficiently.
 - Git is used to tracking changes in the source code
 
-
+**GITHUB:-**
 - **GitHub** is a web-based platform that provides hosting for version control using Git  . 
 - GitHub is a very popular platform for developers to share and collaborate on projects, and it is also used for hosting open-source projects.
 
