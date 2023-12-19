@@ -2,12 +2,12 @@
 
 Authored by:- Biswajit Dash
 
-**Version Control System**
+<h2>Version Control System</h2>
 
 - Version control, also known as source control, is the practice of tracking and managing changes to software code. Version control systems are software tools that help software teams manage changes to source code over time. Version control is a system that records changes to a file or set of files over time so that you can recall specific versions later.
 - It allows you to revert selected files back to a previous state, revert the entire project back to a previous state, compare changes over time, see who last modified something that might be causing a problem, who introduced an issue and when, and more. Like many of the most popular VCS systems available today, Git is free and open source. 
 
-**Types of Version Control System:-**
+<h2>Types of Version Control System:-</h2>
 
 1. Local Version Control Systems
 2. Centralized Version Control Systems
@@ -42,7 +42,7 @@ Authored by:- Biswajit Dash
 - This allows you to set up several types of workflows that aren’t possible in centralized systems, such as Distributed Version Control Systems hierarchical models.
 
 
-**Types of Version Control System**
+<h2>Types of Version Control System</h2>
 
 10 best version control software
 
@@ -54,20 +54,18 @@ Authored by:- Biswajit Dash
 ![](Aspose.Words.ad62aed8-3fb5-45c0-8b30-cdcddcdbb489.017.png)          ![](Aspose.Words.ad62aed8-3fb5-45c0-8b30-cdcddcdbb489.018.png) 
 ![](Aspose.Words.ad62aed8-3fb5-45c0-8b30-cdcddcdbb489.019.png)          ![](Aspose.Words.ad62aed8-3fb5-45c0-8b30-cdcddcdbb489.020.png)
 
-
-
-**Source code management**
+<h2>Source code management</h2>
 
 - Source code management (SCM) is used to track modifications to a source code repository. SCM tracks a running history of changes to a code base and helps resolve conflicts when merging updates from multiple contributors. SCM is also synonymous with Version control.
 - As software projects grow in lines of code and contributor head count, the costs of communication overhead and management complexity also grow. SCM is a critical tool to alleviate the organizational strain of growing development costs.
 
-Source code management best practices:-
+**Source code management best practices:-**
 - Commit often
 - Ensure you're working from latest version qMake detailed notes
 - Review changes before committing qUse Branches
 - Agree on a Workflow
 
-**Git and why is it important?**
+<h2>Git and why is it important?</h2>
 
 ![](Aspose.Words.ad62aed8-3fb5-45c0-8b30-cdcddcdbb489.022.png)
 
@@ -77,7 +75,7 @@ Source code management best practices:-
 
 **GitHub** repositories, allows seamless collaboration and version management among developers.
 
-**Difference between Git and GitHub?**
+<h2>Difference between Git and GitHub?</h2>
 
 ![](Aspose.Words.ad62aed8-3fb5-45c0-8b30-cdcddcdbb489.023.png)
 
@@ -90,13 +88,13 @@ Source code management best practices:-
 - **GitHub** is a web-based platform that provides hosting for version control using Git  . 
 - GitHub is a very popular platform for developers to share and collaborate on projects, and it is also used for hosting open-source projects.
 
-**Difference Between Main Branch and Master Branch?**
+<h2>Difference Between Main Branch and Master Branch?</h2>
 
 - By default, GitHub uses the term “*master*” for the primary(older) version of a source code repository. Developers make copies of the “*master*” on their computers into which they add their own code, and then merge the changes back into the “*master*” repo.
 - GitHub changed the “master” to be “main” as part of the company’s effort to remove unnecessary references to slavery and replace them with more inclusive terms
 - So, bottom line they wanted to get rid of the unpleasant term “master”. Technically its still the same though
 
-**Local Repository**
+<h2>Git Local Repo</h2>
 
 - vim test.sh
 - git – To see git is installed or not
@@ -116,7 +114,7 @@ The *objects* directory stores all the content for your database,
 
 the *refs* directory stores pointers into commit objects in that data (branches, tags, remotes and more), the *HEAD* file points to the branch you currently have checked out
 
-**How do you create a new repository on GitHub?**
+<h2>Create and Setup a new repository on GitHub</h2>
 
 1. Go to the GitHub website and log in to your account.
 2. Click the “+” icon in the top right corner of the screen and select “New repository”.
@@ -156,7 +154,7 @@ URL → Copied URL of the remote repository.
 - ***git branch –M main***
 - ***git push origin main or git push –u origin main***
 
-**Git Branching Commands**
+<h2>Git Branching Commands</h2>
 - **git branch** –To check the branch ![](Aspose.Words.ad62aed8-3fb5-45c0-8b30-cdcddcdbb489.024.png)
 - **git branch –M main** – to rename 
 - **git checkout <branch name>  -** to navigate 
@@ -164,7 +162,7 @@ URL → Copied URL of the remote repository.
 - **git checkout –d <branch name>** - delete branch 
 - **git merge <branch name>** - merge branch 
 
-**Merge code Commands**
+<h2>Merge code Commands</h2>
 
 - git diff main –To check difference between branches
 - git merge <branch name>
@@ -172,7 +170,7 @@ URL → Copied URL of the remote repository.
 - git pull - Pull remote changes to local repository
 - Merge conflicts- If merge conflict occurs then do the changes
 
-**Other git commands**
+<h2>Other git commands</h2>
 
 - git status –To track the files in git for versioning
 - git diff – to check the exact changes of files in git
@@ -183,12 +181,12 @@ URL → Copied URL of the remote repository.
 - git rm –To remove file
 - git mv – to move or rename files
 
-**Fork**
+<h2>Fork</h2>
 
 - A Fork is new repository that shares code and visibility settings with original upstream repository. It is a rough copy.
 
 
-**Git Revert and Reset**
+<h2>Git Revert and Reset</h2>
 
 Git revert and reset are two commands that can be used to undo changes in a Git repository. However, they work in different ways. ![](Aspose.Words.ad62aed8-3fb5-45c0-8b30-cdcddcdbb489.025.png)
 
@@ -199,7 +197,7 @@ Git revert and reset are two commands that can be used to undo changes in a Git 
 |This will create a new commit with the message "This reverts commit (comit-hash-ID)".|This will reset the HEAD pointer to the specified commit, and any commits that were made after the specified commit will be discarded.|
 
 
-**Git Rebase and Merge**
+<h2>Git Rebase and Merge</h2>
 
 In general, you should use git rebase to combine changes from one branch into another when you are      working on your branch and you want to keep the commit history linear. You should use git merge when you are working on a shared branch and you want to preserve the commit history.
 
@@ -211,7 +209,7 @@ In general, you should use git rebase to combine changes from one branch into an
 |To use the git rebase command, simply specify the branch that you want to rebase onto:*git rebase branch-name* |To use the git merge command, simply specify    the branch that you want to merge into the current branch: *git merge branch-name*|
 |This will move the commits from the current the branch onto the tip of the specified branch. |This will create a new commit that contains changes from both branches.|
 
-**Git fetch and Git pull**
+<h2>Git fetch and Git pull</h2>
 
 |Git Fetch | Git Pull |
 |----------|----------|
@@ -221,7 +219,7 @@ In general, you should use git rebase to combine changes from one branch into an
 |git fetch --all |git pull = git fetch + git merge|
  
 
-**Q & A**
+<h2>Q & A</h2>
 
 **What is the functionality of git ls-tree?**
 
