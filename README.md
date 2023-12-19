@@ -1,5 +1,4 @@
 # $${\color{red}GIT \space \color{lightblue}and \space \color{orange}GITHUB}$$
-Authored by:- Biswajit Dash
 
 ## Version Control System
 
