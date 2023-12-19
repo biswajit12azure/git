@@ -73,9 +73,7 @@ Source code management best practices:-
 
 **Git** is a tool used for source code management. It is a free and open-source distributed version control system used to handle small to very large projects efficiently. Git is used  to tracking changes in the source code, enabling multiple developers to work together  on non-linear development. 
 
-
 **It is important** as it track changes effortlessly, and manage code history makes it an indispensable tool for developers and projects of all scales & Git enables users to push (upload) their code changes to GitHub and pull (download) code.
-
 
 **GitHub** repositories, allows seamless collaboration and version management among developers.
 
@@ -83,9 +81,12 @@ Source code management best practices:-
 
 ![](Aspose.Words.ad62aed8-3fb5-45c0-8b30-cdcddcdbb489.023.png)
 
-GIT
+- **Git** is a tool used for source code management.
+- It is a free and open-source version control system used to handle small to very large projects efficiently.
+- Git is used to tracking changes in the source code
 
-- **Git** is a tool used for source code  • **GitHub** is a web-based platform that management. It is a free and open-source  provides hosting for version control using version control system used to handle small  Git. GitHub is a very popular platform for to very large projects efficiently. Git is used  developers to share and collaborate on to tracking changes in the source code . projects, and it is also used for hosting open-source projects.
+- **GitHub** is a web-based platform that provides hosting for version control using Git  . 
+- GitHub is a very popular platform for developers to share and collaborate on projects, and it is also used for hosting open-source projects.
 
 **Difference Between Main Branch and Master Branch?**
 
