@@ -1,4 +1,4 @@
-#f03c15 *some emphasized markdown text*
+$${\color{red}Welcome \space \color{lightblue}To \space \color{orange}Stackoverflow}$$
 <h1>﻿GIT & GITHUB</h1>
 Authored by:- Biswajit Dash
 
