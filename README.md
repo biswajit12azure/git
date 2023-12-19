@@ -217,7 +217,7 @@ In general, you should use git rebase to combine changes from one branch into an
 |**Git Rebase** | **Git Merge** |
 |-------------- |---------------|
 |The git rebase command moves the commits from one branch onto the tip of another branch.This means that the commit history is rewritten,and the two branches will have a linear history. |The git merge command combines the changes from two branches into a single branch. This is done by creating a new commit that contains the changes from both branches.|
-|To use the git rebase command, simply specify the branch that you want to rebase onto:git rebase <branch-name> |To use the git merge command, simply specify    the branch that you want to merge into the current branch: git merge <branch-name>|
+|To use the git rebase command, simply specify the branch that you want to rebase onto:*git rebase branch-name* |To use the git merge command, simply specify    the branch that you want to merge into the current branch: *git merge branch-name*|
 |This will move the commits from the current the branch onto the tip of the specified branch. |This will create a new commit that contains changes from both branches.|
 
 **Git fetch and Git pull**
