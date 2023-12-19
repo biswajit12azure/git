@@ -54,9 +54,11 @@ This allows you to set up several types of workflows that aren’t possible in c
 
 10 best version control software
 
-![](Aspose.Words.ad62aed8-3fb5-45c0-8b30-cdcddcdbb489.011.png)   ![](Aspose.Words.ad62aed8-3fb5-45c0-8b30-cdcddcdbb489.012.png) ![](Aspose.Words.ad62aed8-3fb5-45c0-8b30-cdcddcdbb489.013.png)![](Aspose.Words.ad62aed8-3fb5-45c0-8b30-cdcddcdbb489.014.png)![](Aspose.Words.ad62aed8-3fb5-45c0-8b30-cdcddcdbb489.015.png)
-
-![](Aspose.Words.ad62aed8-3fb5-45c0-8b30-cdcddcdbb489.016.png) ![](Aspose.Words.ad62aed8-3fb5-45c0-8b30-cdcddcdbb489.017.png) ![](Aspose.Words.ad62aed8-3fb5-45c0-8b30-cdcddcdbb489.018.png) ![](Aspose.Words.ad62aed8-3fb5-45c0-8b30-cdcddcdbb489.019.png) ![](Aspose.Words.ad62aed8-3fb5-45c0-8b30-cdcddcdbb489.020.png)
+![](Aspose.Words.ad62aed8-3fb5-45c0-8b30-cdcddcdbb489.011.png)   ![](Aspose.Words.ad62aed8-3fb5-45c0-8b30-cdcddcdbb489.012.png) 
+![](Aspose.Words.ad62aed8-3fb5-45c0-8b30-cdcddcdbb489.013.png)   ![](Aspose.Words.ad62aed8-3fb5-45c0-8b30-cdcddcdbb489.014.png)
+![](Aspose.Words.ad62aed8-3fb5-45c0-8b30-cdcddcdbb489.015.png)   ![](Aspose.Words.ad62aed8-3fb5-45c0-8b30-cdcddcdbb489.016.png) 
+![](Aspose.Words.ad62aed8-3fb5-45c0-8b30-cdcddcdbb489.017.png)   ![](Aspose.Words.ad62aed8-3fb5-45c0-8b30-cdcddcdbb489.018.png) 
+![](Aspose.Words.ad62aed8-3fb5-45c0-8b30-cdcddcdbb489.019.png)   ![](Aspose.Words.ad62aed8-3fb5-45c0-8b30-cdcddcdbb489.020.png)
 
 
 
@@ -106,7 +108,9 @@ GIT GITHUB
 - git – To see git is installed or not
 - git init – To initialize the got repository
 - ls –la- To check the files 
-- ls .git – contents of git(HEAD, hooks, info, objects, config, description, refs) The *description* file is used only by the Git Web program, 
+- ls .git – contents of git(HEAD, hooks, info, objects, config, description, refs) 
+
+The *description* file is used only by the Git Web program, 
 
 The *config* file contains your project-specific configuration options, 
 
@@ -121,12 +125,12 @@ the *refs* directory stores pointers into commit objects in that data (branches,
 **How do you create a new repository on GitHub?![ref2]![ref1]**
 
 1. Go to the GitHub website and log in to your account.
-1. Click the “+” icon in the top right corner of the screen and select “New repository”.
-1. Enter a name for your repository
-1. Add a description of your repository in the “Description” field.
-1. Select whether you want your repository to be public or private.
-1. Choose a license for your repository(Optional).
-1. Click the “Create repository” button.
+2. Click the “+” icon in the top right corner of the screen and select “New repository”.
+3. Enter a name for your repository
+4. Add a description of your repository in the “Description” field.
+5. Select whether you want your repository to be public or private.
+6. Choose a license for your repository(Optional).
+7. Click the “Create repository” button.
 
 **Getting Started - First-Time Git Setup![ref2]![ref1]**
 
