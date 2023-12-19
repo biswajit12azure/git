@@ -79,7 +79,7 @@ Source code management best practices:-
 
 **GitHub** repositories, allows seamless collaboration and version management among developers.
 
-**Difference between Git and GitHub?![ref2]![ref1]**
+**Difference between Git and GitHub?**
 
 ![](Aspose.Words.ad62aed8-3fb5-45c0-8b30-cdcddcdbb489.023.png)
 
