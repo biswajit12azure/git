@@ -172,7 +172,7 @@ URL → Copied URL of the remote repository.
 - git pull - Pull remote changes to local repository
 - Merge conflicts- If merge conflict occurs then do the changes
 
-**Other git commands![ref2]![ref1]**
+**Other git commands**
 
 - git status –To track the files in git for versioning
 - git diff – to check the exact changes of files in git
@@ -183,13 +183,12 @@ URL → Copied URL of the remote repository.
 - git rm –To remove file
 - git mv – to move or rename files
 
-Fork![ref2]![ref1]
+**Fork**
 
 - A Fork is new repository that shares code and visibility settings with original upstream repository. It is a rough copy.
 
-![ref3]
 
-**Git Revert and Reset![ref2]![ref1]**
+**Git Revert and Reset**
 
 Git revert and reset are two commands that can be used to undo changes in a Git repository. However, they work in different ways. ![](Aspose.Words.ad62aed8-3fb5-45c0-8b30-cdcddcdbb489.025.png)
 
@@ -206,10 +205,10 @@ Git revert and reset are two commands that can be used to undo changes in a Git 
 
 - The git reset command moves the HEAD pointer back to the specified commit. This means that the commit history is rewritten, and any commits that were made after the specified commit are discarded.
 - To use the git reset command, simply specify the commit that you want to move the HEAD pointer back to: git reset <commit-hash>
-- This will reset the HEAD pointer to the specified commit, and any commits that were made after the specified commit will be discarded.![ref3]
+- This will reset the HEAD pointer to the specified commit, and any commits that were made after the specified commit will be discarded.
 
 
-**Git Rebase and Merge![ref2]![ref1]**
+**Git Rebase and Merge**
 
 In general, you should use git rebase to combine changes from one branch into another when you are      working on your branch and you want to keep the commit history linear. You should use git merge when you are working on a shared branch and you want to preserve the commit history.
 
@@ -223,7 +222,7 @@ In general, you should use git rebase to combine changes from one branch into an
 
 rebase <branch-name> current branch: git merge <branch-name> • This will move the commits from the current  • This will create a new commit that contains the branch onto the tip of the specified branch. changes from both branches.
 
-git fetch and git pull![ref2]![ref1]
+git fetch and git pull
 
 Git Fetch Git Pull
 
@@ -233,9 +232,7 @@ Git Fetch Git Pull
 
 Command - git pull origin master
 
-![ref3]
-
-Q & A![ref2]![ref1]
+Q & A
 
 What is the functionality of git ls-tree?
 
