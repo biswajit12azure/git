@@ -146,7 +146,6 @@ the *refs* directory stores pointers into commit objects in that data (branches,
 - Create repository on github account
 
 **Cloning an Existing Repository**
-
 - Git clone <url>
 - In your local repository, run the following command to add the remote repository
 - ***git remote add origin <remote repository URL>***
@@ -154,10 +153,9 @@ remote repository URL → Copied URL of the remote repository.
 - Using ***git remote –v*** command, we can check that local repository is connected to remote repository or not
 - ***git branch*** 
 - ***git branch –M main***
-- ***git push origin main or git push –u origin main![ref3]***
+- ***git push origin main or git push –u origin main***
 
-Git Branch![ref2]![ref1]
-
+**Git Branching Commands**
 - **git branch** –To check the branch ![](Aspose.Words.ad62aed8-3fb5-45c0-8b30-cdcddcdbb489.024.png)
 - **git branch –M main** – to rename 
 - **git checkout <branch name>  -** to navigate 
