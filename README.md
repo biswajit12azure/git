@@ -292,9 +292,9 @@ In git, it is used to track each line of the file based on the commit informatio
 **Subscribe YouTube Channel for more Contents : https://www.youtube.com/@IshaDevops** 
 
 
- ![ref3]
+ ![ref3]{width=40 height=40}
 
 
 [ref1]: Aspose.Words.ad62aed8-3fb5-45c0-8b30-cdcddcdbb489.002.jpeg
 [ref2]: Aspose.Words.ad62aed8-3fb5-45c0-8b30-cdcddcdbb489.005.png
-[ref3]: <img src="Aspose.Words.ad62aed8-3fb5-45c0-8b30-cdcddcdbb489.006.png" alt="drawing" width="200"/>
+[ref3]: Aspose.Words.ad62aed8-3fb5-45c0-8b30-cdcddcdbb489.006.png
