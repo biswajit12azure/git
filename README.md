@@ -1,4 +1,4 @@
-## $\textcolor{yellow}{GIT\ &\ GITHUB}$
+## $\textcolor{yellow}{GIT\ AND\ GITHUB}$
 **$${\color{red}GIT \space \color{lightblue}and \space \color{orange}GITHUB}$$**
 
 ## Version Control System
