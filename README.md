@@ -92,22 +92,17 @@ Git enables users to push (upload) their code changes to GitHub and pull (downlo
 
 ![](Aspose.Words.ad62aed8-3fb5-45c0-8b30-cdcddcdbb489.023.png)
 
-GIT GITHUB 
+GIT
 
-- **Git** is a tool used for source code  • **GitHub** is a web-based platform that management. It is a free and open-source  provides hosting for version control using 
+- **Git** is a tool used for source code  • **GitHub** is a web-based platform that management. It is a free and open-source  provides hosting for version control using version control system used to handle small  Git. GitHub is a very popular platform for to very large projects efficiently. Git is used  developers to share and collaborate on to tracking changes in the source code . projects, and it is also used for hosting open-source projects.
 
-  version control system used to handle small  Git. GitHub is a very popular platform for to very large projects efficiently. Git is used  developers to share and collaborate on to tracking changes in the source code . projects, and it is also used for hosting open-source projects.
+**Difference Between Main Branch and Master Branch?**
 
-**Difference Between Main Branch and Master Branch?![ref2]![ref1]**
-
-- By default, GitHub uses the term “*master*” for the primary(older) version of a source code repository. Developers make copies of the “*master*” on their computers into 
-
-  which they add their own code, and then merge the changes back into the “*master*” repo.
-
+- By default, GitHub uses the term “*master*” for the primary(older) version of a source code repository. Developers make copies of the “*master*” on their computers into which they add their own code, and then merge the changes back into the “*master*” repo.
 - GitHub changed the “master” to be “main” as part of the company’s effort to remove unnecessary references to slavery and replace them with more inclusive terms
 - So, bottom line they wanted to get rid of the unpleasant term “master”. Technically its still the same though
 
-**Local Repository![ref2]![ref1]**
+**Local Repository**
 
 - vim test.sh
 - git – To see git is installed or not
