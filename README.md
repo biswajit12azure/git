@@ -1,4 +1,4 @@
-<span style="color:red" **This is Red Bold.** </span>
+<span style="color:red"> *some emphasized markdown text*</span>
 <h1>﻿GIT & GITHUB</h1>
 Authored by:- Biswajit Dash
 
