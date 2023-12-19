@@ -1,4 +1,4 @@
-<h1>﻿GIT & GITHUB</h1>
+<span style="color:red">some **This is Red Bold.** text</span><h1>﻿GIT & GITHUB</h1>
 Authored by:- Biswajit Dash
 
 ## Version Control System
