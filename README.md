@@ -282,8 +282,9 @@ Role of the git annotate command.
 
 In git, it is used to track each line of the file based on the commit information. 
 
-**THANK YOU**![](Aspose.Words.ad62aed8-3fb5-45c0-8b30-cdcddcdbb489.027.png)
+![](Aspose.Words.ad62aed8-3fb5-45c0-8b30-cdcddcdbb489.027.png)
 
+**THANK YOU**
 **BISWAJIT DASH  ||   ISHA DEVOPS**
 
 **Subscribe YouTube Channel for more Contents : https://www.youtube.com/@IshaDevops** 
