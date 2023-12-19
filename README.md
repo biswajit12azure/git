@@ -1,4 +1,4 @@
-<span style="color:red">some **This is Red Bold.** text</span>
+<span style="color:red" **This is Red Bold.** </span>
 <h1>﻿GIT & GITHUB</h1>
 Authored by:- Biswajit Dash
 
