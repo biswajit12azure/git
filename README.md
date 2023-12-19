@@ -134,7 +134,6 @@ the *refs* directory stores pointers into commit objects in that data (branches,
 - git config --global user.email <your@email.com>
 - git config –list
 
-
 **Local & remote repository? How to connect local to remote?**
 
 - **The local repository** is a Git repository that is stored **on your computer.**
@@ -146,12 +145,11 @@ the *refs* directory stores pointers into commit objects in that data (branches,
 - Initialize git repository using #***git init*** in local repository
 - Create repository on github account
 
-Cloning an Existing Repository
+**Cloning an Existing Repository**
 
 - Git clone <url>
 - In your local repository, run the following command to add the remote repository
 - ***git remote add origin <remote repository URL>***
-
 remote repository URL → Copied URL of the remote repository.
 
 Using command, we can check that local repository is connected to remote repository or not
