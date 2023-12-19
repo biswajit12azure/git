@@ -212,17 +212,16 @@ Git revert and reset are two commands that can be used to undo changes in a Git 
 
 In general, you should use git rebase to combine changes from one branch into another when you are      working on your branch and you want to keep the commit history linear. You should use git merge when you are working on a shared branch and you want to preserve the commit history.
 
-**git rebase git merge![](Aspose.Words.ad62aed8-3fb5-45c0-8b30-cdcddcdbb489.026.png)**
+**Git rebase and Git merge![](Aspose.Words.ad62aed8-3fb5-45c0-8b30-cdcddcdbb489.026.png)**
 
-- The git rebase command moves the commits  • The git merge command combines the changes from one branch onto the tip of another branch.  from two branches into a single branch. This is 
+|**Git Rebase** | **Git Merge** |
+|-------------- |---------------|
 
-  This means that the commit history is rewritten,  done by creating a new commit that contains the and the two branches will have a linear history. changes from both branches.
+|The git rebase command moves the commits from one branch onto the tip of another branch.This means that the commit history is rewritten,and the two branches will have a linear history. |The git merge command combines the changes from two branches into a single branch. This is done by creating a new commit that contains the changes from both branches.|
+|To use the git rebase command, simply specify the branch that you want to rebase onto:git rebase <branch-name> |To use the git merge command, simply specify    the branch that you want to merge into the current branch: git merge <branch-name>|
+|This will move the commits from the current the branch onto the tip of the specified branch. |This will create a new commit that contains changes from both branches.|
 
-- To use the git rebase command, simply specify  • To use the git merge command, simply specify the branch that you want to rebase onto: git  the branch that you want to merge into the 
-
-rebase <branch-name> current branch: git merge <branch-name> • This will move the commits from the current  • This will create a new commit that contains the branch onto the tip of the specified branch. changes from both branches.
-
-**git fetch and git pull**
+**Git fetch and Git pull**
 
 |Git Fetch | Git Pull |
 |----------|----------|
