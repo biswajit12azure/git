@@ -222,7 +222,7 @@ In general, you should use git rebase to combine changes from one branch into an
 
 rebase <branch-name> current branch: git merge <branch-name> • This will move the commits from the current  • This will create a new commit that contains the branch onto the tip of the specified branch. changes from both branches.
 
-git fetch and git pull
+**git fetch and git pull**
 
 |Git Fetch | Git Pull |
 |----------|----------|
