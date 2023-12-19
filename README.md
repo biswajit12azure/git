@@ -232,53 +232,53 @@ Git Fetch Git Pull
 
 Command - git pull origin master
 
-Q & A
+**Q & A**
 
-What is the functionality of git ls-tree?
+**What is the functionality of git ls-tree?**
 
 The git ls-tree command is used to list the contents of a tree object.
 
-What is Git stash?
+**What is Git stash?**
 
 - Let’s say you're a developer and you want to switch branches to work on something else. The issue is you don’t want to make commits in uncompleted work, so you just want to get back to this point later. The solution here is the Git stash.
 - Git stash takes your modified tracked files and saves it on a stack of unfinished changes that you can reapply at any time. To go back to the work you can use the stash pop.
 
-What is Git stash vs Git stash pop?
+**What is Git stash vs Git stash pop?**
 
 Git stash pop removes the (topmost, by default) stash when applied, whereas git stash apply keeps it in the stash list for future use.
 
-What does the git reset --mixed and git merge --abort commands do?
+**What does the git reset --mixed and git merge --abort commands do?**
 
 - git reset --mixed is used to undo changes made in the working directory and staging area.
 - git merge --abort helps stop the merge process and return back to the state before the merging began.
 
-What exactly is git cherry-pick?
+**What exactly is git cherry-pick?**
 
 A command typically used to move specific commits from one branch of a repository to another.
 
-State the difference between “git remote” and “got clone”?
+**State the difference between “git remote” and “got clone”?**
 
 - “Git remote” allows you to create an entry in the git configuration which specify a URL.
 - “Git clone” lets you create a new git repository by letting you copy it from the current URL.
 
-What is Git Bisect and how do you use it?
+**What is Git Bisect and how do you use it?**
 
 - The Git Bisect command performs a binary search to detect the commit which introduced a bug or regression in the project’s history.
 - Syntax: git bisect <subcommand> <options>
 
-What is the functionality of git clean command?
+**What is the functionality of git clean command?**
 
 The git clean command removes the untracked files from the working directory.
 
-How to change any older commit messages?
+**How to change any older commit messages?**
 
 You can change the most recent commit message with the git commit —amend command.
 
-Explain git reflog
+**Explain git reflog**
 
 This command is used by Git to record changes made to the branches' tips.
 
-Role of the git annotate command. 
+**Explain role of the git annotate command.** 
 
 In git, it is used to track each line of the file based on the commit information. 
 
