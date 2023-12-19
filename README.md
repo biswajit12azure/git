@@ -192,20 +192,11 @@ URL → Copied URL of the remote repository.
 
 Git revert and reset are two commands that can be used to undo changes in a Git repository. However, they work in different ways. ![](Aspose.Words.ad62aed8-3fb5-45c0-8b30-cdcddcdbb489.025.png)
 
-**git revert** 
-
-- The git revert command creates a new commit that undoes the changes made by the specified commit. This means that the commit history is preserved, and other developers can still see the changes that were made, even 
-
-  though they have been undone.
-
-- To use the git revert command, simply specify the commit that you want to undo: git revert <commit-hash>
-- This will create a new commit with the message "This reverts commit <commit-hash>".
-
-**git reset**
-
-- The git reset command moves the HEAD pointer back to the specified commit. This means that the commit history is rewritten, and any commits that were made after the specified commit are discarded.
-- To use the git reset command, simply specify the commit that you want to move the HEAD pointer back to: git reset <commit-hash>
-- This will reset the HEAD pointer to the specified commit, and any commits that were made after the specified commit will be discarded.
+|**git revert** |**git reset**|
+|---------------|-------------|
+|The git revert command creates a new commit that undoes the changes made by the specified commit. This means that the commit history is preserved, and other developers can still see the changes that were made, even though they have been undone. |The git reset command moves the HEAD pointer back to the specified commit. This means that the commit history is rewritten, and any commits that were made after the specified commit are discarded.|
+|To use the git revert command, simply specify the commit that you want to undo: git revert (commit-hash ID)|To use the git reset command, simply specify the commit that you want to move the HEAD pointer back to: git reset (commit-hash ID)|
+|This will create a new commit with the message "This reverts commit (comit-hash-ID)".|This will reset the HEAD pointer to the specified commit, and any commits that were made after the specified commit will be discarded.|
 
 
 **Git Rebase and Merge**
