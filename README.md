@@ -146,7 +146,8 @@ the *refs* directory stores pointers into commit objects in that data (branches,
 - Create repository on github account
 
 **Cloning an Existing Repository**
-- Git clone **<remote repository URL>**
+- Git clone *<remote repository URL>*
+remote repository URL → Copied URL of the remote repository.
 - In your local repository, run the following command to add the remote repository
 - ***git remote add origin <remote repository URL>***
 remote repository URL → Copied URL of the remote repository.
