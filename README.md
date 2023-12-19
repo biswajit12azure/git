@@ -77,7 +77,10 @@ Source code management best practices:-
 
 **Git and why is it important?**
 
-**Git** is a tool used for source code management. It is a free and open-source distributed  ![](Aspose.Words.ad62aed8-3fb5-45c0-8b30-cdcddcdbb489.022.png)version control system used to handle small to very large projects efficiently. Git is used  to tracking changes in the source code, enabling multiple developers to work together  on non-linear development. 
+![](Aspose.Words.ad62aed8-3fb5-45c0-8b30-cdcddcdbb489.022.png)
+
+
+**Git** is a tool used for source code management. It is a free and open-source distributed version control system used to handle small to very large projects efficiently. Git is used  to tracking changes in the source code, enabling multiple developers to work together  on non-linear development. 
 
 **It is important** as it track changes effortlessly, and manage code history makes it an  
 
