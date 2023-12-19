@@ -18,7 +18,9 @@ Authored by:- Biswajit Dash
 
 ![](Aspose.Words.ad62aed8-3fb5-45c0-8b30-cdcddcdbb489.007.png)
 
-Local VCSs has a simple database that kept all the changes to files under revision control. One of the most popular VCS tools was a system called RCS, which is still distributed with many computers today. [RCS](https://www.gnu.org/software/rcs/) works by keeping patch sets (that is, the differences between files) in a special format on disk; it can then re-create what any file looked like at any point in time by adding up all the patches.
+- Local VCSs has a simple database that kept all the changes to files under revision control. 
+- One of the most popular VCS tools was a system called RCS, which is still distributed with many computers today. 
+- [RCS](https://www.gnu.org/software/rcs/) works by keeping patch sets (that is, the differences between files) in a special format on disk; it can then re-create what any file looked like at any point in time by adding up all the patches.
 
 
 **Centralized Version Control Systems**
