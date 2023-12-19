@@ -164,7 +164,7 @@ URL → Copied URL of the remote repository.
 - **git checkout –d <branch name>** - delete branch 
 - **git merge <branch name>** - merge branch 
 
-Merge code![ref2]![ref1]
+**Merge code Commands**
 
 - git diff main –To check difference between branches
 - git merge <branch name>
