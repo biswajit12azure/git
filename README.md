@@ -126,15 +126,15 @@ the *refs* directory stores pointers into commit objects in that data (branches,
 6. Choose a license for your repository(Optional).
 7. Click the “Create repository” button.
 
-**Getting Started - First-Time Git Setup![ref2]![ref1]**
+**Getting Started - First-Time Git Setup**
 
-- Setting your username and email address in Git is essential for identifying you as the author of commits and contributions in your projects. This information helps Git keep track of who made 
+- Setting your username and email address in Git is essential for identifying you as the author of commits and contributions in your projects. This information helps Git keep track of who made changes to the code. 
 
-changes to the code. 👤📧 • To set your username and email address, you need to use the following Git commands in the command line or Git client:
 
-- git config --global user.name "Your Name"
-- git config --global user.email <your@email.com>
-- git config –list
+👤📧 To set your username and email address, you need to use the following Git commands in the command line or Git client:
+    - git config --global user.name "Your Name"
+    - git config --global user.email <your@email.com>
+    - git config –list
 
 ![ref3]
 
