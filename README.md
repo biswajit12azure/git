@@ -14,7 +14,7 @@
 ### Local Version Control Systems
 
 
-![](Aspose.Words.ad62aed8-3fb5-45c0-8b30-cdcddcdbb489.007.png)
+![](images/Aspose.Words.ad62aed8-3fb5-45c0-8b30-cdcddcdbb489.007.png)
 
 - Local VCSs has a simple database that kept all the changes to files under revision control. 
 - One of the most popular VCS tools was a system called RCS, which is still distributed with many computers today. 
