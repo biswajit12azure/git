@@ -24,7 +24,7 @@
 ### Centralized Version Control Systems
 
 
-![](Aspose.Words.ad62aed8-3fb5-45c0-8b30-cdcddcdbb489.008.png)
+![](images/Aspose.Words.ad62aed8-3fb5-45c0-8b30-cdcddcdbb489.008.png)
 
 - Centralized Version Control Systems (CVCSs) were developed to collaborate with developers on other systems. These systems (such as CVS, Subversion, and Perforce) have a single server that contains all the versioned files, and a number of clients that check out files from that central place. 
 - This setup offers many advantages, especially over local VCSs. For example, everyone knows to a certain degree what everyone else on the project is doing. Administrators have fine-grained control over who can do what, and it’s far easier to administer a CVCS than it is to deal with local databases on every client.
@@ -33,7 +33,7 @@
 ### Distributed Version Control Systems
 
 
-![](Aspose.Words.ad62aed8-3fb5-45c0-8b30-cdcddcdbb489.009.png)
+![](images/Aspose.Words.ad62aed8-3fb5-45c0-8b30-cdcddcdbb489.009.png)
 
 - In Distributed Version Control Systems (DVCSs) (such as Git, Mercurial or Darcs), clients don’t just check out the latest snapshot of the files; rather, they fully mirror the repository, including its full history. Thus, if any server dies, and these systems were collaborating via that server, any of the client repositories can be copied back up to the server to restore it. 
 - Every clone is really a full backup of all the data.Furthermore, many of these systems deal pretty well with having several remote repositories they can work with, so you can collaborate with different groups of people in different ways simultaneously within the same project. 
@@ -44,13 +44,13 @@
 
 ### 10 best version control software
 
-![](Aspose.Words.ad62aed8-3fb5-45c0-8b30-cdcddcdbb489.011.png)         ![](Aspose.Words.ad62aed8-3fb5-45c0-8b30-cdcddcdbb489.012.png)                              ![](Aspose.Words.ad62aed8-3fb5-45c0-8b30-cdcddcdbb489.013.png)         ![](Aspose.Words.ad62aed8-3fb5-45c0-8b30-cdcddcdbb489.014.png)
-![](Aspose.Words.ad62aed8-3fb5-45c0-8b30-cdcddcdbb489.015.png)         
+![](images/Aspose.Words.ad62aed8-3fb5-45c0-8b30-cdcddcdbb489.011.png)         ![](images/Aspose.Words.ad62aed8-3fb5-45c0-8b30-cdcddcdbb489.012.png)                              ![](images/Aspose.Words.ad62aed8-3fb5-45c0-8b30-cdcddcdbb489.013.png)         ![](images/Aspose.Words.ad62aed8-3fb5-45c0-8b30-cdcddcdbb489.014.png)
+![](images/Aspose.Words.ad62aed8-3fb5-45c0-8b30-cdcddcdbb489.015.png)         
 
 
-![](Aspose.Words.ad62aed8-3fb5-45c0-8b30-cdcddcdbb489.016.png) 
-![](Aspose.Words.ad62aed8-3fb5-45c0-8b30-cdcddcdbb489.017.png)          ![](Aspose.Words.ad62aed8-3fb5-45c0-8b30-cdcddcdbb489.018.png) 
-![](Aspose.Words.ad62aed8-3fb5-45c0-8b30-cdcddcdbb489.019.png)          ![](Aspose.Words.ad62aed8-3fb5-45c0-8b30-cdcddcdbb489.020.png)
+![](images/Aspose.Words.ad62aed8-3fb5-45c0-8b30-cdcddcdbb489.016.png) 
+![](images/Aspose.Words.ad62aed8-3fb5-45c0-8b30-cdcddcdbb489.017.png)          ![](images/Aspose.Words.ad62aed8-3fb5-45c0-8b30-cdcddcdbb489.018.png) 
+![](images/Aspose.Words.ad62aed8-3fb5-45c0-8b30-cdcddcdbb489.019.png)          ![](images/Aspose.Words.ad62aed8-3fb5-45c0-8b30-cdcddcdbb489.020.png)
 
 ## Source code management
 
@@ -65,7 +65,7 @@
 
 ## Git and why is it important?
 
-![](Aspose.Words.ad62aed8-3fb5-45c0-8b30-cdcddcdbb489.022.png)
+![](images/Aspose.Words.ad62aed8-3fb5-45c0-8b30-cdcddcdbb489.022.png)
 
 **Git** is a tool used for source code management. It is a free and open-source distributed version control system used to handle small to very large projects efficiently. Git is used  to tracking changes in the source code, enabling multiple developers to work together  on non-linear development. 
 
@@ -75,7 +75,7 @@
 
 ## Difference between Git and GitHub?
 
-![](Aspose.Words.ad62aed8-3fb5-45c0-8b30-cdcddcdbb489.023.png)
+![](images/Aspose.Words.ad62aed8-3fb5-45c0-8b30-cdcddcdbb489.023.png)
 
 |GIT | GITHUB|
 |--------|-----------|
@@ -142,7 +142,7 @@ URL → Copied URL of the remote repository.
 - ***git push origin main or git push –u origin main***
 
 ## Git Branching Commands
-- **git branch** –To check the branch ![](Aspose.Words.ad62aed8-3fb5-45c0-8b30-cdcddcdbb489.024.png)
+- **git branch** –To check the branch ![](images/Aspose.Words.ad62aed8-3fb5-45c0-8b30-cdcddcdbb489.024.png)
 - **git branch –M main** – to rename 
 - **git checkout <branch name>  -** to navigate 
 - **git checkout –b <branch name>** - create branch 
@@ -174,7 +174,7 @@ URL → Copied URL of the remote repository.
 
 ## Git Revert and Reset
 
-Git revert and reset are two commands that can be used to undo changes in a Git repository. However, they work in different ways. ![](Aspose.Words.ad62aed8-3fb5-45c0-8b30-cdcddcdbb489.025.png)
+Git revert and reset are two commands that can be used to undo changes in a Git repository. However, they work in different ways. ![](images/Aspose.Words.ad62aed8-3fb5-45c0-8b30-cdcddcdbb489.025.png)
 
 |git revert |git reset|
 |---------------|-------------|
@@ -186,7 +186,7 @@ Git revert and reset are two commands that can be used to undo changes in a Git 
 
 In general, you should use git rebase to combine changes from one branch into another when you are working on your branch and you want to keep the commit history linear. You should use git merge when you are working on a shared branch and you want to preserve the commit history.
 
-![](Aspose.Words.ad62aed8-3fb5-45c0-8b30-cdcddcdbb489.026.png)**
+![](images/Aspose.Words.ad62aed8-3fb5-45c0-8b30-cdcddcdbb489.026.png)**
 
 |Git Rebase | Git Merge |
 |-------------- |---------------|
@@ -254,7 +254,7 @@ This command is used by Git to record changes made to the branches' tips.
 
 In git, it is used to track each line of the file based on the commit information. 
 
-![](Aspose.Words.ad62aed8-3fb5-45c0-8b30-cdcddcdbb489.027.png)
+![](images/Aspose.Words.ad62aed8-3fb5-45c0-8b30-cdcddcdbb489.027.png)
 
 ## THANK YOU
 
@@ -264,10 +264,10 @@ In git, it is used to track each line of the file based on the commit informatio
 **Subscribe YouTube Channel for more Contents : https://www.youtube.com/@IshaDevops** 
 
 
- ![](Aspose.Words.ad62aed8-3fb5-45c0-8b30-cdcddcdbb489.006.png)
+ ![](images/Aspose.Words.ad62aed8-3fb5-45c0-8b30-cdcddcdbb489.006.png)
 
 
-[ref1]: Aspose.Words.ad62aed8-3fb5-45c0-8b30-cdcddcdbb489.002.jpeg
-[ref2]: Aspose.Words.ad62aed8-3fb5-45c0-8b30-cdcddcdbb489.005.png
-[ref3]: Aspose.Words.ad62aed8-3fb5-45c0-8b30-cdcddcdbb489.006.png
+[ref1]: images/Aspose.Words.ad62aed8-3fb5-45c0-8b30-cdcddcdbb489.002.jpeg
+[ref2]: images/Aspose.Words.ad62aed8-3fb5-45c0-8b30-cdcddcdbb489.005.png
+[ref3]: images/Aspose.Words.ad62aed8-3fb5-45c0-8b30-cdcddcdbb489.006.png
 
